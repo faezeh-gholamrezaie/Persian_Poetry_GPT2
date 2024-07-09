@@ -4,8 +4,9 @@
 
 The Transformer architecture has revolutionized text generation, forming the foundation for GPT (Generative Pre-trained Transformer) models. Its applications extend beyond language tasks, with uses in image classification, generation, and even protein folding! Let's delve into the three key components of a Transformer and how they work together in GPT models.
 
-![Capture](https://github.com/Mahsa33/GPT2/assets/53941450/c77015a1-afa1-4544-bf3e-3227fe80a471)
-
+<div align="center">
+    <img width="80%" src="https://github.com/Mahsa33/GPT2/assets/53941450/c77015a1-afa1-4544-bf3e-3227fe80a471">
+</div>
 
 # 1. Embeddings: Bridging the Gap Between Text and Numbers
 
