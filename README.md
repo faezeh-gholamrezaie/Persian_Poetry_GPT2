@@ -5,7 +5,7 @@
 The Transformer architecture has revolutionized text generation, forming the foundation for GPT (Generative Pre-trained Transformer) models. Its applications extend beyond language tasks, with uses in image classification, generation, and even protein folding! Let's delve into the three key components of a Transformer and how they work together in GPT models.
 
 <div align="center">
-    <img width="80%" src="https://github.com/Mahsa33/GPT2/assets/53941450/c77015a1-afa1-4544-bf3e-3227fe80a471">
+    <img width="30%" src="https://github.com/Mahsa33/GPT2/assets/53941450/c77015a1-afa1-4544-bf3e-3227fe80a471">
 </div>
 
 # 1. Embeddings: Bridging the Gap Between Text and Numbers
@@ -66,11 +66,13 @@ Here is the English translation of the provided Persian text:
 
 For each position pos and dimension i:
 
-![Capture](https://github.com/Mahsa33/GPT2/assets/53941450/dba83f3c-6531-4d38-8d0e-d69d2dc38b1b)
+<div align="center">
+    <img width="30%" src="https://github.com/Mahsa33/GPT2/assets/53941450/dba83f3c-6531-4d38-8d0e-d69d2dc38b1b">
+</div>
 
-![Capture2](https://github.com/Mahsa33/GPT2/assets/53941450/4de3d842-3469-43a9-a389-ffce222c495d)
-
-
+<div align="center">
+    <img width="30%" src="https://github.com/Mahsa33/GPT2/assets/53941450/4de3d842-3469-43a9-a389-ffce222c495d">
+</div>
 
 
 ### 3. Combining Word and Positional Embeddings
