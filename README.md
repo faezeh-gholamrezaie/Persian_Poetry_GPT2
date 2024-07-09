@@ -67,11 +67,11 @@ Here is the English translation of the provided Persian text:
 For each position pos and dimension i:
 
 <div align="center">
-    <img width="30%" src="https://github.com/Mahsa33/GPT2/assets/53941450/dba83f3c-6531-4d38-8d0e-d69d2dc38b1b">
+    <img width="40%" src="https://github.com/Mahsa33/GPT2/assets/53941450/dba83f3c-6531-4d38-8d0e-d69d2dc38b1b">
 </div>
 
 <div align="center">
-    <img width="30%" src="https://github.com/Mahsa33/GPT2/assets/53941450/4de3d842-3469-43a9-a389-ffce222c495d">
+    <img width="40%" src="https://github.com/Mahsa33/GPT2/assets/53941450/4de3d842-3469-43a9-a389-ffce222c495d">
 </div>
 
 
