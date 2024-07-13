@@ -1,7 +1,7 @@
 # Persian_Poetry_GPT2
 
 <div align="center">
-    <img width="30%" src="https://github.com/faezeh-gholamrezaie/Persian_Poetry_GPT2/blob/main/Persian%20Poetry%20Generator%20using%20GPT2.jpg">
+    <img width="60%" src="https://github.com/faezeh-gholamrezaie/Persian_Poetry_GPT2/blob/main/Persian%20Poetry%20Generator%20using%20GPT2.jpg">
 </div>
 
 # Understanding Transformers in GPT Models
